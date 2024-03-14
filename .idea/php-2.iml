@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Lab1/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/bai 4 - nsp/base_mvc/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/de_thi_thu_php2/de_thi_thu_php2/base_no_class_2" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab1/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab1/vendor/phroute/phroute" />
+      <excludeFolder url="file://$MODULE_DIR$/bai 4 - nsp/base_mvc/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/bai 4 - nsp/base_mvc/vendor/eftec/bladeone" />
+      <excludeFolder url="file://$MODULE_DIR$/bai 4 - nsp/base_mvc/vendor/phroute/phroute" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/eftec/bladeone" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
